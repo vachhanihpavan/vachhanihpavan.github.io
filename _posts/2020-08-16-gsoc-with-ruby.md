@@ -6,7 +6,7 @@ gh-repo: vachhanihpavan/rubygems.org
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/2020-08-16/cover.png
 thumbnail-img: /assets/img/2020-08-16/thumb.png
-tags: [gsoc, ruby, rubygems.org]
+tags: [blog, gsoc, ruby, rubygems.org]
 ---
 
 Hi, everyone! This blog post will be about my journey of getting into Google Summer of Code program.

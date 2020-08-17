@@ -13,8 +13,8 @@ author: Pavan Vachhani
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "https://vachhanihpavan@github.io"
-  Projects: "https://vachhanihpavan@github.io"
+  Blog: tags#blog
+  Projects: tags#project
 
 # --- Logo --- #
 
@@ -116,7 +116,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-175650220-1"
 
 # Google Tag Manager ID
 #gtm: ""
