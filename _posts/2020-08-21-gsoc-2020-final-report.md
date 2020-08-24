@@ -9,8 +9,18 @@ thumbnail-img: /assets/img/2020-08-16/thumb.png
 tags: [blog, gsoc, ruby, rubygems.org]
 ---
 
-My Google Summer of Code project with Ruby was focused on "Adding functionality of add/remove owners via Web UI".
-This blog post is for my final submission of GSoC project.
+## Background
+`gem` is a standard format for distributing Ruby libraries or packages provided by RubyGems package manager.
+[rubygems.org](https://rubygems.org) is the Ruby community's gem hosting service to publish and fetch gems.
+The user of RubyGems who has permission who push/yank any version of a gem are called the *owners* of that gem.
+
+## My Project
+My Google Summer of Code project with Ruby was focused on "Adding functionality of add/remove gem owners via Web UI".
+The aim of this project is ensure frictionless management of ownerships without setting up CLI. This project will also
+help continue maintaining gems by pointing interested users to gems which need maintainers and reviving unmaintained ones.
+
+This blog post is for my final submission of GSoC project. 
+ 
 
 - Project: [Add gem owner add and remove in web UI of rubygems.org](https://summerofcode.withgoogle.com/projects/#5841025752367104)
 - Mentor: [Aditya Prakash](https://github.com/sonalkr132)
@@ -88,7 +98,7 @@ With this feature, a logged in user will be asked to confirm the password before
 After confirming the password, user won't be asked again for next 10 minutes.
 
 ### Part 2: Ownership Transfer
-The next part of the project involved two major components:
+The second part of the project involved two major components:
 
 #### Ownership Calls
 There are a few cases when a gem needs new maintainers:
