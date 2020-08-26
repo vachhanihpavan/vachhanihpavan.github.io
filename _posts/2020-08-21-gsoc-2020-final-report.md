@@ -25,6 +25,7 @@ This blog post is for my final submission of GSoC project.
 - Project: [Add gem owner add and remove in web UI of rubygems.org](https://summerofcode.withgoogle.com/projects/#5841025752367104)
 - Mentor: [Aditya Prakash](https://github.com/sonalkr132)
 - Organisation: [Ruby](https://summerofcode.withgoogle.com/organizations/6676829491953664/)
+- Project Page: [https://rubygsoc.github.io/add-gem-owner-add-and-remove-in-web-ui-of-rubygems.org/](https://rubygsoc.github.io/add-gem-owner-add-and-remove-in-web-ui-of-rubygems.org/)
 
 Under this project, there were 2 parts to be implemented:
 1. Functionality to add/remove owners of a gem via web UI similar to [CLI](https://guides.rubygems.org/command-reference/#gem-owner)
