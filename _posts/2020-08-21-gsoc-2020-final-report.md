@@ -153,4 +153,8 @@ suggestions.
 It would like to thank [Mohit Tahiliani](https://github.com/mohittahiliani) sir and [Mishal Shah](https://github.com/mishal23) for motivating
 and guiding me in applying and getting through the whole program.  
 
-Final thanks to Google for organizing this amazing program. I am excited to continue contributing to the open source community.
+Final thanks to Google for organizing this amazing program. I feel GSoC made it easier for me to get started with open source contributions.
+I saw ideas getting dropped after PR was complete([#2264]((https://github.com/rubygems/rubygems.org/pull/2264))),
+complete change in implementation([#2339](https://github.com/rubygems/rubygems.org/pull/2339)) and work done by me being deployed through the program.
+It was a great lesson on how projects are built and maintained with great quality.
+I am excited to continue contributing to the open source community.
